@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B2185716-7194-4CB3-92EF-8EFD60BC61CF</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Yebab</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>987EB7A9-12F9-4847-8F4D-FB6213070BCC</key>
+		<string>http://192.168.1.200/svn/xicom/yebab.com/iphone/Yebab</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Yebab.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>987EB7A9-12F9-4847-8F4D-FB6213070BCC</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>987EB7A9-12F9-4847-8F4D-FB6213070BCC</key>
+		<string>http://192.168.1.200/svn/xicom</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://192.168.1.200/svn/xicom/yebab.com/iphone/Yebab/Yebab.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>987EB7A9-12F9-4847-8F4D-FB6213070BCC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>987EB7A9-12F9-4847-8F4D-FB6213070BCC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Yebab</string>
+		</dict>
+	</array>
+</dict>
+</plist>

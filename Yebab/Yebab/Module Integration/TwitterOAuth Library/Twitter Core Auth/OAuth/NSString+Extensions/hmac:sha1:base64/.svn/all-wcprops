@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/xicom/!svn/ver/10625/yebab.com/iphone/Yebab/Yebab/Module%20Integration/TwitterOAuth%20Library/Twitter%20Core%20Auth/OAuth/NSString+Extensions/hmac:sha1:base64
+END
+Base64Transcoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/xicom/!svn/ver/10625/yebab.com/iphone/Yebab/Yebab/Module%20Integration/TwitterOAuth%20Library/Twitter%20Core%20Auth/OAuth/NSString+Extensions/hmac:sha1:base64/Base64Transcoder.h
+END
+sha1.h
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/xicom/!svn/ver/10625/yebab.com/iphone/Yebab/Yebab/Module%20Integration/TwitterOAuth%20Library/Twitter%20Core%20Auth/OAuth/NSString+Extensions/hmac:sha1:base64/sha1.h
+END
+hmac.c
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/xicom/!svn/ver/10625/yebab.com/iphone/Yebab/Yebab/Module%20Integration/TwitterOAuth%20Library/Twitter%20Core%20Auth/OAuth/NSString+Extensions/hmac:sha1:base64/hmac.c
+END
+Base64Transcoder.c
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/xicom/!svn/ver/10625/yebab.com/iphone/Yebab/Yebab/Module%20Integration/TwitterOAuth%20Library/Twitter%20Core%20Auth/OAuth/NSString+Extensions/hmac:sha1:base64/Base64Transcoder.c
+END
+sha1.c
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/xicom/!svn/ver/10625/yebab.com/iphone/Yebab/Yebab/Module%20Integration/TwitterOAuth%20Library/Twitter%20Core%20Auth/OAuth/NSString+Extensions/hmac:sha1:base64/sha1.c
+END
+hmac.h
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/xicom/!svn/ver/10625/yebab.com/iphone/Yebab/Yebab/Module%20Integration/TwitterOAuth%20Library/Twitter%20Core%20Auth/OAuth/NSString+Extensions/hmac:sha1:base64/hmac.h
+END

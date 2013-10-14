@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/xicom/!svn/ver/10625/yebab.com/iphone/Yebab/FacebookSDK.framework/Versions/A/DeprecatedHeaders
+END
+FBOpenGraphAction.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/xicom/!svn/ver/10625/yebab.com/iphone/Yebab/FacebookSDK.framework/Versions/A/DeprecatedHeaders/FBOpenGraphAction.h
+END
+FBSessionManualTokenCachingStrategy.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/xicom/!svn/ver/10625/yebab.com/iphone/Yebab/FacebookSDK.framework/Versions/A/DeprecatedHeaders/FBSessionManualTokenCachingStrategy.h
+END
+FBProfilePictureView.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/xicom/!svn/ver/10625/yebab.com/iphone/Yebab/FacebookSDK.framework/Versions/A/DeprecatedHeaders/FBProfilePictureView.h
+END
+FBError.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/xicom/!svn/ver/10625/yebab.com/iphone/Yebab/FacebookSDK.framework/Versions/A/DeprecatedHeaders/FBError.h
+END
+FBGraphLocation.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/xicom/!svn/ver/10625/yebab.com/iphone/Yebab/FacebookSDK.framework/Versions/A/DeprecatedHeaders/FBGraphLocation.h
+END
+FBUserSettingsViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/xicom/!svn/ver/10625/yebab.com/iphone/Yebab/FacebookSDK.framework/Versions/A/DeprecatedHeaders/FBUserSettingsViewController.h
+END
+FBFrictionlessRequestSettings.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/xicom/!svn/ver/10625/yebab.com/iphone/Yebab/FacebookSDK.framework/Versions/A/DeprecatedHeaders/FBFrictionlessRequestSettings.h
+END
+FBSettings.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/xicom/!svn/ver/10625/yebab.com/iphone/Yebab/FacebookSDK.framework/Versions/A/DeprecatedHeaders/FBSettings.h
+END
+FacebookSDK.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/xicom/!svn/ver/10625/yebab.com/iphone/Yebab/FacebookSDK.framework/Versions/A/DeprecatedHeaders/FacebookSDK.h
+END
+FBLoginView.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/xicom/!svn/ver/10625/yebab.com/iphone/Yebab/FacebookSDK.framework/Versions/A/DeprecatedHeaders/FBLoginView.h
+END
+FBFriendPickerViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/xicom/!svn/ver/10625/yebab.com/iphone/Yebab/FacebookSDK.framework/Versions/A/DeprecatedHeaders/FBFriendPickerViewController.h
+END
+FBGraphPlace.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/xicom/!svn/ver/10625/yebab.com/iphone/Yebab/FacebookSDK.framework/Versions/A/DeprecatedHeaders/FBGraphPlace.h
+END
+FBRequestConnection.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/xicom/!svn/ver/10625/yebab.com/iphone/Yebab/FacebookSDK.framework/Versions/A/DeprecatedHeaders/FBRequestConnection.h
+END
+FBSBJsonParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/xicom/!svn/ver/10625/yebab.com/iphone/Yebab/FacebookSDK.framework/Versions/A/DeprecatedHeaders/FBSBJsonParser.h
+END
+FBPlacePickerViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/xicom/!svn/ver/10625/yebab.com/iphone/Yebab/FacebookSDK.framework/Versions/A/DeprecatedHeaders/FBPlacePickerViewController.h
+END
+FBTestSession.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/xicom/!svn/ver/10625/yebab.com/iphone/Yebab/FacebookSDK.framework/Versions/A/DeprecatedHeaders/FBTestSession.h
+END
+FBSession.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/xicom/!svn/ver/10625/yebab.com/iphone/Yebab/FacebookSDK.framework/Versions/A/DeprecatedHeaders/FBSession.h
+END
+FBSessionTokenCachingStrategy.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/xicom/!svn/ver/10625/yebab.com/iphone/Yebab/FacebookSDK.framework/Versions/A/DeprecatedHeaders/FBSessionTokenCachingStrategy.h
+END
+FBRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/xicom/!svn/ver/10625/yebab.com/iphone/Yebab/FacebookSDK.framework/Versions/A/DeprecatedHeaders/FBRequest.h
+END
+FBGraphObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/xicom/!svn/ver/10625/yebab.com/iphone/Yebab/FacebookSDK.framework/Versions/A/DeprecatedHeaders/FBGraphObject.h
+END
+FBLoginDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/xicom/!svn/ver/10625/yebab.com/iphone/Yebab/FacebookSDK.framework/Versions/A/DeprecatedHeaders/FBLoginDialog.h
+END
+FBSBJsonBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/xicom/!svn/ver/10625/yebab.com/iphone/Yebab/FacebookSDK.framework/Versions/A/DeprecatedHeaders/FBSBJsonBase.h
+END
+FBConnect.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/xicom/!svn/ver/10625/yebab.com/iphone/Yebab/FacebookSDK.framework/Versions/A/DeprecatedHeaders/FBConnect.h
+END
+FBNativeDialogs.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/xicom/!svn/ver/10625/yebab.com/iphone/Yebab/FacebookSDK.framework/Versions/A/DeprecatedHeaders/FBNativeDialogs.h
+END
+FBSBJsonWriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/xicom/!svn/ver/10625/yebab.com/iphone/Yebab/FacebookSDK.framework/Versions/A/DeprecatedHeaders/FBSBJsonWriter.h
+END
+FBSBJSON.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/xicom/!svn/ver/10625/yebab.com/iphone/Yebab/FacebookSDK.framework/Versions/A/DeprecatedHeaders/FBSBJSON.h
+END
+FBDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/xicom/!svn/ver/10625/yebab.com/iphone/Yebab/FacebookSDK.framework/Versions/A/DeprecatedHeaders/FBDialog.h
+END
+FBGraphUser.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/xicom/!svn/ver/10625/yebab.com/iphone/Yebab/FacebookSDK.framework/Versions/A/DeprecatedHeaders/FBGraphUser.h
+END
+Facebook.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/xicom/!svn/ver/10625/yebab.com/iphone/Yebab/FacebookSDK.framework/Versions/A/DeprecatedHeaders/Facebook.h
+END
+FBCacheDescriptor.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/xicom/!svn/ver/10625/yebab.com/iphone/Yebab/FacebookSDK.framework/Versions/A/DeprecatedHeaders/FBCacheDescriptor.h
+END
+FBViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/xicom/!svn/ver/10625/yebab.com/iphone/Yebab/FacebookSDK.framework/Versions/A/DeprecatedHeaders/FBViewController.h
+END
